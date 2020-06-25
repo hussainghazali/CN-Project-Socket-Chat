@@ -1,5 +1,3 @@
-The assignment of computer networks course at Ho Chi Minh City University of Technology (HCMUT)
-
 # How to compile socket-chat project
 
 - First, you need to install some packages.
@@ -56,11 +54,3 @@ java -jar target/socket-chat-client-release-1.0.0-jar-with-dependencies.jar
   <img src="./demo/menu_window.png">
 </p>
 
-# Thanks
-
-1. Thank you [icon8](https://icons8.com) for the icon of the application
-2. Thank you  [vincenzopalazzo](https://github.com/vincenzopalazzo/material-ui-swing) for the modern, Material Design UI for Java Swing.
-
-# Project member
-1. [Đỗ Đăng Khôi](https://github.com/UrekMazinoTOG)
-2. [Lê Công Linh](https://github.com/conglinhcse)
